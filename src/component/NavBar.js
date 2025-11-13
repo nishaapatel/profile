@@ -84,7 +84,7 @@ const NavBar = () => {
 
 
             <nav className='flex items-center justify-center flex-wrap'>
-                <motion.a href="https://github.com/davidhuynhgit" target={"_blank"}
+                <motion.a href="https://github.com/nishaapatel" target={"_blank"}
                 whileHover={{y:-2}}
                 whileTap={{scale:0.9}}
                 className="w-6 mr-3"
@@ -92,7 +92,7 @@ const NavBar = () => {
                     <GithubIcon/>
                 </motion.a>
 
-                <motion.a href="https://www.linkedin.com/in/davidhuynh-connect/" target={"_blank"}
+                <motion.a href="https://www.linkedin.com/in/nishapatel196/" target={"_blank"}
                 whileHover={{y:-2}}
                 whileTap={{scale:0.9}}
                 className="w-6 mx-3"
@@ -100,7 +100,7 @@ const NavBar = () => {
                     <LinkedInIcon/>
                 </motion.a>
                 
-                <motion.a href="https://www.facebook.com/htdatbk" target={"_blank"}
+                <motion.a href="https://www.facebook.com" target={"_blank"}
                 whileHover={{y:-2}}
                 whileTap={{scale:0.9}}
                 className="w-6 mx-3"
@@ -142,7 +142,7 @@ const NavBar = () => {
  
  
              <nav className='flex items-center justify-center flex-wrap mt-8'>
-                 <motion.a href="https://github.com/davidhuynhgit" target={"_blank"}
+                 <motion.a href="https://github.com/nishaapatel" target={"_blank"}
                  whileHover={{y:-2}}
                  whileTap={{scale:0.9}}
                  className="w-6 mr-3 bg-light dark:bg-dark rounded-full "
@@ -150,7 +150,7 @@ const NavBar = () => {
                      <GithubIcon/>
                  </motion.a>
  
-                 <motion.a href="https://www.linkedin.com/in/davidhuynh-connect/" target={"_blank"}
+                 <motion.a href="https://www.linkedin.com/in/nishapatel196/" target={"_blank"}
                  whileHover={{y:-2}}
                  whileTap={{scale:0.9}}
                  className="w-6 mx-3 "
@@ -158,7 +158,7 @@ const NavBar = () => {
                      <LinkedInIcon/>
                  </motion.a>
                  
-                 <motion.a href="https://www.facebook.com/htdatbk" target={"_blank"}
+                 <motion.a href="https://www.facebook.com" target={"_blank"}
                  whileHover={{y:-2}}
                  whileTap={{scale:0.9}}
                  className="w-6 ml-3 "
