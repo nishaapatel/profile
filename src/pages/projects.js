@@ -116,7 +116,7 @@ const projects = () => {
   return (
     <>
         <Head>
-            <title>David Huynh | Projects</title>
+            <title>Nisha Patel | Projects</title>
             <meta name="description" content='any description'/>
         </Head>
         <TransitionEffect/> 
@@ -135,8 +135,8 @@ const projects = () => {
                      The results are potentially critical to the scheme, based on the publicly available data on the distribution of the funds over time. 
                      It is expected that by using JupyterNotebook/Python and Guardian API with structured and unstructured data analysis under QDAVI framework,
                      the patterns or concerns can offer meaningful insights."                    
-                    link="https://github.com/davidhuynhgit/AdvanceQLD"
-                    github="https://github.com/davidhuynhgit/AdvanceQLD"
+                    link="https://github.com/nishaapatel"
+                    github="https://github.com/nishaapatel"
                     type="Featured Project"
                     hashtags={["Narrative", "Python","API","UnstructuredData", "NMF", "LDA", "QDAVI", "DataViz"]}           
                     />
