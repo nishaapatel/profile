@@ -12,7 +12,7 @@ const Logo = () => {
         className='w-16 h-16 bg-dark text-light flex items-center justify-center
         rounded-full text-2x1 font-bold  border border-solid border-transparent
         dark:bg-light dark:text-dark'
-        >DH</MotionLink>
+        >NP</MotionLink>
     </div>
   )
 }
