@@ -16,8 +16,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>David Huynh | Home</title>
-        <meta name="description" content="DavidHuynh's Portfolio" />
+        <title>Nisha Patel | Home</title>
+        <meta name="description" content="Nisha Patel's Portfolio" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <TransitionEffect/>
@@ -28,7 +28,7 @@ export default function Home() {
               <div className="rounded-2xl bg-light w-2/3 mx-auto">
               <Image
                 src={profilePic}
-                alt="David"
+                alt="Nisha"
                 className="h-auto rounded-2xl z-1 bg-radial"
                 priority
                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
@@ -42,7 +42,7 @@ export default function Home() {
               <AnimatedText text="Unleash The Power Of Data To Drive Smart Decisions" className='!text-6xl !text-left
               xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl'/>            
               <p className='my-6 text-base font-medium text-justify break-words hyphens-auto'>
-              Hello! I am David Huynh. As a passionate Data Analyst with a strong engineering background, I specialize in extracting meaningful insights through data mining, machine learning, and advanced analytics. 
+              Hello! I am Nisha Patel. As a passionate Data Analyst with a strong engineering background, I specialize in extracting meaningful insights through data mining, machine learning, and advanced analytics. 
               Explore my latest projects, where I blend programming expertise with analytical skills to solve complex problems.
               </p>
 
@@ -58,7 +58,7 @@ export default function Home() {
                   download={true}
                 >Resume <LinkArrow  className="ml-2 !h-[50px] !w-[30px]"  />
                 </Link>
-                <Link href="mailto:davidhuynh.connect@gmail.com"
+                <Link href="mailto:nishaapatel196@gmail.com"
                 className='ml-4 text-lg font-medium capitalize 
                 text-dark underline dark:text-light
                 md:text-base'
@@ -70,7 +70,7 @@ export default function Home() {
                 <div className='flex flex-col items-center'>
                   <Image 
                     src={QRPic} 
-                    alt="David" 
+                    alt="Nisha" 
                     className='border border-dark'
                     priority
                     width={180} 
