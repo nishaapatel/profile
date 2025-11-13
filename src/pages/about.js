@@ -37,7 +37,7 @@ const about = () => {
   return (
     <>
       <Head>
-        <title>David Huynh | About</title>
+        <title>Nisha Patel | About</title>
         <meta name="description" content="any description" />
       </Head>
       <TransitionEffect/>
@@ -50,7 +50,7 @@ const about = () => {
                 Biography
               </h2>
               <p className="font-medium">
-                Hi, I&apos;m David, a Data Analyst with a passion for transforming 
+                Hi, I&apos;m Nisha, an IT Support Analyst with a passion for transforming 
                 data into actionable insights and innovative solutions.
                 I transitioned into the data field, where I specialize in data analysis, 
                 machine learning, and predictive modeling. I am committed to solving complex problems 
@@ -79,7 +79,7 @@ const about = () => {
               />
               <Image
                 src={profilePic}
-                alt="David"
+                alt="Nisha"
                 className="relative w-full h-auto rounded-2xl z-1 bg-radial"
                 priority
                 sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
