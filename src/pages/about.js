@@ -43,27 +43,25 @@ const about = () => {
       <TransitionEffect/>
       <main className="flex w-full flex-col items-center justify-center dark:text-light">
         <Layout className="py-16">
-          <AnimatedText text="Driven by Curiosity, Committed to Excellence" className="mb-16 lg:!text-7xl sm:!text-6xl xs:!text-4xl sm:mb-8" />
+          <AnimatedText text="Bridging people and technology through smart IT solutions." className="mb-16 lg:!text-7xl sm:!text-6xl xs:!text-4xl sm:mb-8" />
           <div className="grid w-full grid-cols-8 gap-16 sm:gap-8">
             <div className="col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8">
               <h2 className="mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75">
                 Biography
               </h2>
               <p className="font-medium">
-                Hi, I&apos;m Nisha, an IT Support Analyst with a passion for transforming 
-                data into actionable insights and innovative solutions.
-                I transitioned into the data field, where I specialize in data analysis, 
-                machine learning, and predictive modeling. I am committed to solving complex problems 
-                and turning data into valuable insights that drive smarter decision-making.
+                Hi, I&apos;m Nisha, a results-driven IT Support Analyst with practical experience in ServiceNow ticketing,   
+                SLA-based issue resolution, and end-user support across Windows, Office 365, and Active Directory environments. 
+                I possess strong technical expertise in troubleshooting hardware, software, and network issues, system configuration, and account management.
               </p>
               <p className="my-4 font-medium">
-              I believe data is more than just numbers. It is about uncovering insights, 
-              predicting trends, and enabling smarter, data-driven decisions through effective visualization
+              Holding a Master of Information Technology and a background in Physics, I combine analytical thinking with hands-on technical proficiency to deliver reliable and efficient IT solutions. 
+              I have successfully improved service delivery efficiency and documentation standards, contributing to enhanced user satisfaction and operational productivity.
               </p>
               <p className="font-medium">
-              Whether it&apos;s analyzing large datasets, building predictive models, or automating processes, 
-              I bring precision, creativity, and a commitment to excellence to every project. 
-              I&apos;m eager to apply my skills to tackle your next data-driven opportunity.
+              Committed to continuous learning and professional excellence, 
+              I aim to leverage my technical knowledge and customer-focused approach to support business objectives and strengthen 
+              IT operations in dynamic organizational environments.
               </p>
             </div>
 
@@ -89,17 +87,17 @@ const about = () => {
             <div className="col-span-2 flex flex-col items-end justify-between xl:col-span-8 xl:flex-row xl:items-center md:order-3">
               <div className="flex flex-col items-end justify-center xl:items-center">
                 <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
-                  <AnimatedNumber value={20} />+
+                  <AnimatedNumber value={10} />+
                 </span>
                 <h2 className="text-x1 font-medium capitalize text-dark/75 dark:text-light
                 xl:text-center md:text-lg sm:text-base xs:text-sm">
-                  Satisfied clients
+                  Skills improved
                 </h2>
               </div>
 
               <div className="flex flex-col items-end justify-center xl:items-center">
                 <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl">
-                  <AnimatedNumber value={15} />+
+                  <AnimatedNumber value={3} />+
                 </span>
                 <h2 className="text-x1 font-medium capitalize text-dark/75 dark:text-light
                 xl:text-center md:text-lg sm:text-base xs:text-sm">
@@ -107,15 +105,15 @@ const about = () => {
                 </h2>
               </div>
 
-              <div className="flex flex-col items-end justify-center xl:items-center">
-                <span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl                ">
-                  <AnimatedNumber value={4} />+
+              //<div className="flex flex-col items-end justify-center xl:items-center">
+                /*<span className="inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl                ">
+                  <AnimatedNumber value={3} />+
                 </span>
                 <h2 className="text-x1 font-medium capitalize text-dark/75 dark:text-light
                 xl:text-center md:text-lg sm:text-base xs:text-sm">
                   Years of experience
                 </h2>
-              </div>
+              </div>*/
             </div>
           </div>
           <Skills />
