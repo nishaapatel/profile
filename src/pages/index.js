@@ -39,7 +39,7 @@ export default function Home() {
           
 
             <div className='p-4 w-2/3 flex flex-col items-center self-center lg:w-full lg:text-center'>
-              <AnimatedText text="ering technology with clarity and precision" className='!text-6xl !text-left
+              <AnimatedText text="Empowering technology with clarity and precision" className='!text-6xl !text-left
               xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl'/>            
               <p className='my-6 text-base font-medium text-justify break-words hyphens-auto'>
               Hello! I am Nisha Patel.         
