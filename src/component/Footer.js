@@ -8,7 +8,7 @@ const Footer = () => {
     font-medium text-lg dark:text-light dark:border-light sm:text-base'>
         <Layout className='!py-4 flex items-center justify-between lg:flex-col'>
             <span>{new Date().getFullYear()} &copy; All Rights Reserved.</span>
-            <span>David Huynh</span>
+            <span>Nisha Patel</span>
         </Layout>
     </footer>
   )
