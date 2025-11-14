@@ -32,15 +32,15 @@ const Skills = () => {
   const skillSets = [
     {
       bgColor: '#16C47F', // Add custom background colors for each set
-      skills: ['Python', 'R','C#', 'Java', 'SQL', 'JavaScript']
+      skills: ['Python', 'R','C#', 'JavaScript(Basic)', 'SQL']
     },
     {
       bgColor: '#FF9D23',
-      skills: ['Data Mining', 'Tableau', 'Analytics', 'Data Cleaning', 'Database','PowerBI']
+      skills: ['ServiceNow', 'Microsoft Project', 'GitHub', 'Technical Documents', 'User Guides','Support Ticket Management']
     },    
     {
       bgColor: '#F93827',
-      skills: ['Machine Learning', 'Artificial Intelligence', 'AWS', 'GCP', 'Spark','Hadoop']
+      skills: ['Agile Methodologies', 'Artificial Intelligence', 'AWS', 'Windows (Advanced)', 'Linux (Basic)','Data Analysis and reporting']
     },
     // Add more skill sets as needed
   ];
