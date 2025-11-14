@@ -39,11 +39,13 @@ export default function Home() {
           
 
             <div className='p-4 w-2/3 flex flex-col items-center self-center lg:w-full lg:text-center'>
-              <AnimatedText text="Unleash The Power Of Data To Drive Smart Decisions" className='!text-6xl !text-left
+              <AnimatedText text="ering technology with clarity and precision" className='!text-6xl !text-left
               xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl'/>            
               <p className='my-6 text-base font-medium text-justify break-words hyphens-auto'>
-              Hello! I am Nisha Patel. As a passionate Data Analyst with a strong engineering background, I specialize in extracting meaningful insights through data mining, machine learning, and advanced analytics. 
-              Explore my latest projects, where I blend programming expertise with analytical skills to solve complex problems.
+              Hello! I am Nisha Patel.         
+              Dedicated IT Support Analyst with expertise in ServiceNow, Windows, and Office 365 environments. 
+              Skilled in troubleshooting, system administration, and end-user support with a focus on efficiency and reliability. 
+              Passionate about delivering seamless IT solutions and continuous improvement in fast-paced workplaces.
               </p>
 
               <div className='flex items-center self-start mt-2 lg:self-center'>
