@@ -55,30 +55,32 @@ const Experience = () => {
             
             <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
             <Details
-                    position="Assistant Technology Support Officer"
-                    company="Queensland University of Technology (QUT)"
+                    position="Customer Service Representative"
+                    company="Foodland Supermarket"
                     time="2024"
-                    address="Brisbane, Queensland"
-                    work="Worked on a team responsible for integrating desktop computing with research instrumentation, 
-                    deploying and supporting software and hardware in specialized labs, 
-                    and troubleshooting issues across the campus."
+                    address="Adelaide, Australia"
+                    work="Assist 300+ customers daily with efficient and courteous service. 
+                        Handle up to $6,000 per shift with high accuracy and attention to detail. 
+                        Support store operations and inventory management while promoting customer loyalty programs."
             />
 
             <Details
-                    position="Automation Engineer"
-                    company="SISTECH Co., Ltd"
-                    time="2020-2023"
-                    address="HCMC, Vietnam"
-                    work="contributed to several projects, including upgrading outdated systems, troubleshooting and resolving 
-                    device malfunctions, and commissioning and controlling various instruments and subsystems to enhance overall operational efficiency."
+                    position="Team Member"
+                    company="Delicia Convenience Store"
+                    time="2023"
+                    address="Wollongong, NSW"
+                    work="Provided fast, friendly customer service to approximately 180 customers daily. 
+                        Managed stock levels, restocked displays, and operated point-of-sale systems efficiently. 
+                        Ensured high standards of store presentation and customer satisfaction."
             />
             <Details
-                    position="Automation Engineer (Intern)"
-                    company="SISTECH Co., Ltd"
-                    time="2018"
-                    address="HCMC, Vietnam"
-                    work="Led a team of interns focused on software analysis and process evaluation to 
-                    complete a project automating a manufacturing process, improving efficiency and streamlining operations."
+                    position="IT and Office Assistant"
+                    company="Accutech Automation"
+                    time="2019-2023"
+                    address="Gujarat, India"
+                    work="Supported daily IT and office operations, including database management and technical documentation. 
+                        Assisted in troubleshooting hardware and software issues across multiple departments. 
+                        Streamlined Excel-based reporting systems to enhance data tracking and project monitoring."
             />
             </ul>
 
