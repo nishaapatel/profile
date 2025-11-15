@@ -1,41 +1,41 @@
 import React from 'react';
 import Image from 'next/image';
-import certAWSCloud from "../../public/images/cert/CertAWSCloud.PNG"
-import certGGData from "../../public/images/cert/CertGoogleData.PNG"
-import certTata from "../../public/images/cert/CertTata.PNG"
-import certTataAI from "../../public/images/cert/CertTataAI.PNG"
-import certQuantium from "../../public/images/cert/CertQuantium.PNG"
+import certACSWindowsserver from "../../public/images/cert/ACS Windows Active Directory.png"
+import certDeloitteJobS from "../../public/images/cert/Deloitte Tech Job Simulation.png"
+import certGoogleIT from "../../public/images/cert/Google IT Tech Support Fundamentals.png"
+import certLinkedInIT from "../../public/images/cert/LinkedIn IT Service Desk.png"
+import certLinkedInSN from "../../public/images/cert/LinkedIn ServiceNow.png"
 
 const Certificates = () => {
   const certifications = [
     {
-      description: 'Tata Group - GenAI Powered Data Analytics Job Simulation',
-      platform: 'Forage',
-      image: certTataAI,
+      description: 'ACS - Windows Server 2022: Active Directory Basics',
+      platform: 'Skillsoft',
+      image: certACSWindowsserver,
       link: 'https://github.com/davidhuynhgit/Certificates/blob/main/ForageTataAI_Certificate.pdf',
     },
     {
-      description: 'Quantium - Data Analytics Job Simulation',
+      description: 'Deloitte Australia - Technology  Job Simulation',
       platform: 'Forage',
-      image: certQuantium,
+      image: certDeloitteJobS,
       link: 'https://github.com/davidhuynhgit/Certificates/blob/main/ForageQuantium_Certificate.pdf',
     },
     {
-      description: 'Tata Group - Data Visualisation: Empowering Business with Effective Insights Job Simulation',
-      platform: 'Forage',
-      image: certTata,
+      description: 'Google - Technical Support Fundamentals',
+      platform: 'Coursera',
+      image: certGoogleIT,
       link: 'https://github.com/davidhuynhgit/Certificates/blob/main/ForageTata_Certificate.pdf',
     },
     {
-      description: 'Google Data Analytics',
-      platform: 'Coursera x ACS Scholarship',
-      image: certGGData,
+      description: 'LinkedIn: IT Service Desk: Service Management',
+      platform: 'LinkedIn',
+      image: certLinkedInIT,
       link: 'https://github.com/davidhuynhgit/Certificates/blob/main/Google%20Data%20Analytics_Certificate.pdf',
     },
     {
-      description: 'AWS Cloud Practitioner Essentials',
-      platform: 'AWS Skill Builder',
-      image: certAWSCloud,
+      description: 'LinkedIn: ServiceNow: Basic Administration',
+      platform: 'LinkedIn',
+      image: certLinkedInSN,
       link: 'https://github.com/davidhuynhgit/Certificates/blob/main/AWS%20Course%20Completion%20Certificate.pdf',
     },
   ];
