@@ -12,31 +12,31 @@ const Certificates = () => {
       description: 'ACS - Windows Server 2022: Active Directory Basics',
       platform: 'Skillsoft',
       image: certACSWindowsserver,
-      link: 'https://github.com/davidhuynhgit/Certificates/blob/main/ForageTataAI_Certificate.pdf',
+      link: 'https://github.com/nishaapatel/certificates/blob/main/Windows Server 2022_ Active Directory Basics.pdf',
     },
     {
       description: 'Deloitte Australia - Technology  Job Simulation',
       platform: 'Forage',
       image: certDeloitteJobS,
-      link: 'https://github.com/davidhuynhgit/Certificates/blob/main/ForageQuantium_Certificate.pdf',
+      link: 'https://github.com/nishaapatel/certificates/blob/main/Deloitte_Technology_Job_completion_certificate.pdf',
     },
     {
       description: 'Google - Technical Support Fundamentals',
       platform: 'Coursera',
       image: certGoogleIT,
-      link: 'https://github.com/davidhuynhgit/Certificates/blob/main/ForageTata_Certificate.pdf',
+      link: 'https://github.com/nishaapatel/certificates/blob/main/Coursera 7O5ZGL977UFE.pdf',
     },
     {
       description: 'LinkedIn: IT Service Desk: Service Management',
       platform: 'LinkedIn',
       image: certLinkedInIT,
-      link: 'https://github.com/davidhuynhgit/Certificates/blob/main/Google%20Data%20Analytics_Certificate.pdf',
+      link: 'https://github.com/nishaapatel/certificates/blob/main/CertificateOfCompletion_IT Service Desk Service Management.pdf',
     },
     {
       description: 'LinkedIn: ServiceNow: Basic Administration',
       platform: 'LinkedIn',
       image: certLinkedInSN,
-      link: 'https://github.com/davidhuynhgit/Certificates/blob/main/AWS%20Course%20Completion%20Certificate.pdf',
+      link: 'https://github.com/nishaapatel/certificates/blob/main/CertificateOfCompletion_ServiceNow Basic Administration 2020.pdf',
     },
   ];
 
