@@ -53,26 +53,29 @@ const Education = () => {
         md:w-[2px] md:left-[30px] xs:left-[20px]"/>
             
             <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
-            <Details
-            type="Master Of Information Techonology - Data Science"
-            time="2023-2024"
-            place="Queensland University of Technology (QUT)"
-            info="Achieved High Distinction GPA and received the QUT Executive Dean's Commendation for Academic Excellence. 
-            Relevant courses included Artificial Intelligence, Machine Learning, Data Mining, and Analytics. Completed capstone projects focused on predictive modeling with real-world datasets."
+             <Details
+            type="Professional Year Program"
+            time="2025"
+            place="Performance Education"
+            info="Focused on Australian business culture, workplace communication, career development, and practical professional skills."
             />
             <Details
-            type="Master of Engineering - Control Engineering & Automation"
-            time="2018-2021"
-            place="Ho Chi Minh City University of Technology"
-            info="Specialized in advanced control engineering with a focus on parameter estimation and adaptive control for underwater robots.
-            Developed expertise in advanced control methodologies, including optimal, robust, and nonlinear control, alongside system identification techniques."
+            type="Master Of Information Techonology (Extension)"
+            time="2023-2025"
+            place="Kaplan Business School"
+            info="Specialised in networking, cybersecurity, digital forensics, database management, IT project management, and UX design."
             />
             <Details
-            type="Bachelor of Engineering - Control Engineering & Automation (Honor)"
-            time="2014-2018"
-            place="Ho Chi Minh City University of Technology"
-            info="Studied fundamentals of electronics and electrical engineering, with a specialization in industrial automation and control engineering. 
-            Developed a strong foundation in designing and implementing automated systems for industrial applications."
+            type="Master of Science (Physics)"
+            time="2017-2019"
+            place="Hemchandracharya North Gujarat University"
+            info="Studied advanced physics concepts including mechanics, electromagnetism, quantum theory, and developed strong analytical and mathematical skills."
+            />
+            <Details
+            type="Bachelor of Science (Physics)"
+            time="2014-2017"
+            place="Hemchandracharya North Gujarat University"
+            info="Built a solid foundation in core physics, optics, thermodynamics, and hands-on laboratory techniques."
             />
             </ul>
         </div>
