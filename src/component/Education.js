@@ -71,7 +71,7 @@ const Education = () => {
             place="Hemchandracharya North Gujarat University"
             info="Studied advanced physics concepts including mechanics, electromagnetism, quantum theory, and developed strong analytical and mathematical skills."
             />
-            <Details
+        <Details
             type="Bachelor of Science (Physics)"
             time="2014-2017"
             place="Hemchandracharya North Gujarat University"
