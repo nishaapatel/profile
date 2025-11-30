@@ -77,7 +77,6 @@ const Education = () => {
             place="Hemchandracharya North Gujarat University"
             info="Built a solid foundation in core physics, optics, thermodynamics, and hands-on laboratory techniques."
             />
-            
             </ul>
         </div>
     </div>
