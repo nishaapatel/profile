@@ -9,8 +9,8 @@ const milestone = () => {
   return (
     <>
     <Head>
-      <title>David Huynh | Milestones</title>
-      <meta name="description" content="DavidHuynh's Portfolio" />
+      <title>Nisha Patel | Milestones</title>
+      <meta name="description" content="Nisha Patel's Portfolio" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
     </Head>
     <TransitionEffect/>
