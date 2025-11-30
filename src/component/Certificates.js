@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import certACSWindowsserver from "../../public/images/cert/ACS Windows Active Directory.png"
+import certGoogleITSupport from "../../public/images/cert/Google IT Support Professional.png"
 import certDeloitteJobS from "../../public/images/cert/Deloitte Tech Job Simulation.png"
 import certGoogleIT from "../../public/images/cert/Google IT Tech Support Fundamentals.png"
 import certLinkedInIT from "../../public/images/cert/LinkedIn IT Service Desk.png"
@@ -8,6 +8,12 @@ import certLinkedInSN from "../../public/images/cert/LinkedIn ServiceNow.png"
 
 const Certificates = () => {
   const certifications = [
+    {
+      description: 'Google: IT Support Professional certificate',
+      platform: 'Coursera',
+      image: certGoogleITSupport,
+      link: 'https://github.com/nishaapatel/certificates/blob/main/Google IT Support Professional Certificate.pdf',
+    },
     {
       description: 'ACS - Windows Server 2022: Active Directory Basics',
       platform: 'Skillsoft',
