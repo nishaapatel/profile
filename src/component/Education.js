@@ -53,7 +53,7 @@ const Education = () => {
         md:w-[2px] md:left-[30px] xs:left-[20px]"/>
             
             <ul className="w-full flex flex-col items-start justify-between ml-4 xs:ml-2">
-             <Details
+            <Details
             type="Professional Year Program"
             time="2025"
             place="Performance Education"
@@ -71,7 +71,7 @@ const Education = () => {
             place="Hemchandracharya North Gujarat University"
             info="Studied advanced physics concepts including mechanics, electromagnetism, quantum theory, and developed strong analytical and mathematical skills."
             />
-        <Details
+            <Details
             type="Bachelor of Science (Physics)"
             time="2014-2017"
             place="Hemchandracharya North Gujarat University"
