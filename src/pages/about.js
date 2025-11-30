@@ -91,7 +91,7 @@ const about = () => {
                 </span>
                 <h2 className="text-x1 font-medium capitalize text-dark/75 dark:text-light
                 xl:text-center md:text-lg sm:text-base xs:text-sm">
-                  Skills improved
+                  Technical Skills Courses Completed
                 </h2>
               </div>
 
