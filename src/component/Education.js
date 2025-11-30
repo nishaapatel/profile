@@ -72,7 +72,7 @@ const Education = () => {
             info="Studied advanced physics concepts including mechanics, electromagnetism, quantum theory, and developed strong analytical and mathematical skills."
             />
             <Details
-            type="Bachelor of Science (Physics)"
+            type="M of Science (Physics)"
             time="2014-2017"
             place="Hemchandracharya North Gujarat University"
             info="Built a solid foundation in core physics, optics, thermodynamics, and hands-on laboratory techniques."
